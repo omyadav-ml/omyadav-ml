@@ -65,17 +65,12 @@ I enjoy solving problems through code and believe in lifelong learning. 🌱
 
 ## 📊 GitHub Stats  
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om-Yadav&show_icons=true&theme=tokyonight)  
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-yadav&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Yadav&layout=compact&theme=tokyonight)  
 
----
 
-## 🔥 GitHub Streak  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-yadav&layout=compact&theme=dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Om-Yadav&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 

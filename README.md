@@ -65,12 +65,9 @@ I enjoy solving problems through code and believe in lifelong learning. 🌱
 
 ## 📊 GitHub Stats  
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-yadav&show_icons=true&theme=dark)
+![om-yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-yadav&show_icons=true&theme=tokyonight)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-yadav&layout=compact&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om-yadav&layout=compact&theme=tokyonight)
 
 ---
 

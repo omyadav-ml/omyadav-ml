@@ -58,16 +58,16 @@ I enjoy solving problems through code and believe in lifelong learning. 🌱
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-00FFFF?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![om-yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-yadav&show_icons=true&theme=tokyonight)
+![om-yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=omyadav-ml&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=om-yadav&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omyadav-ml&layout=compact&theme=tokyonight)
+
 
 ---
 
